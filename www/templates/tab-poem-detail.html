@@ -1,0 +1,13 @@
+<ion-view view-title={{title}}>
+
+  <ion-content>
+    <!-- <div class="card poem-lines">
+      {{lines}}
+    </div> -->
+    <div class="poem-lines">
+      <article ng-repeat="line in lines track by $index" >
+        <p>{{line}}</p>
+      </article>
+    </div>
+  </ion-content>
+</ion-view>

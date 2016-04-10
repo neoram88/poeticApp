@@ -1,0 +1,20 @@
+<ion-view view-title="Authors">
+
+  <ion-content>
+    <div class="bar  bar-header item-input-inset">
+      <label class="item-input-wrapper">
+        <i class="icon ion-ios-search placeholder-icon"></i>
+        <input type="search" placeholder="Search Authors" data-ng-model="query" autofocus>
+      </label>
+      <button class="button button-clear" ng-click="clearSearch()">
+        Cancel
+      </button>
+    </div>
+    <ion-list>
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="author in authors | filter:query | orderBy: 'author' " type="item-text-wrap" href="#/app/tab/authors/{{author}}">
+        <h2>{{author}}</h2>
+
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

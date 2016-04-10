@@ -1,0 +1,16 @@
+2015-11-17 21:31:12.803 poeticApp[9969:115658] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/RamY/Library/Developer/CoreSimulator/Devices/A23DD4E1-1F85-4971-86F7-2B05C2DBA24F/data/Containers/Data/Application/3409E3F4-C7B5-4C28-A603-F78FBA42ECC6/Library/Cookies/Cookies.binarycookies
+2015-11-17 21:31:13.301 poeticApp[9969:115658] Apache Cordova native platform version 3.8.0 is starting.
+2015-11-17 21:31:13.302 poeticApp[9969:115658] Multi-tasking -> Device: YES, App: YES
+2015-11-17 21:31:13.324 poeticApp[9969:115658] Unlimited access to network resources
+2015-11-17 21:31:13.890 poeticApp[9969:115658] [CDVTimer][keyboard] 0.087976ms
+2015-11-17 21:31:13.890 poeticApp[9969:115658] [CDVTimer][TotalPluginStartup] 0.338018ms
+2015-11-17 21:31:14.714 poeticApp[9969:115658] Resetting plugins due to page load.
+2015-11-17 21:31:15.045 poeticApp[9969:115658] Finished load of: file:///Users/RamY/Library/Developer/CoreSimulator/Devices/A23DD4E1-1F85-4971-86F7-2B05C2DBA24F/data/Containers/Bundle/Application/F3FF5B62-74D5-4239-8D8F-4806091D4655/poeticApp.app/www/index.html#/app/tab
+2015-11-17 21:34:53.320 poeticApp[10284:118854] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/RamY/Library/Developer/CoreSimulator/Devices/A23DD4E1-1F85-4971-86F7-2B05C2DBA24F/data/Containers/Data/Application/B067126C-025F-40E3-8A84-F3B405782D12/Library/Cookies/Cookies.binarycookies
+2015-11-17 21:34:53.469 poeticApp[10284:118854] Apache Cordova native platform version 3.8.0 is starting.
+2015-11-17 21:34:53.470 poeticApp[10284:118854] Multi-tasking -> Device: YES, App: YES
+2015-11-17 21:34:53.473 poeticApp[10284:118854] Unlimited access to network resources
+2015-11-17 21:34:53.678 poeticApp[10284:118854] [CDVTimer][keyboard] 0.140011ms
+2015-11-17 21:34:53.678 poeticApp[10284:118854] [CDVTimer][TotalPluginStartup] 0.470996ms
+2015-11-17 21:34:53.860 poeticApp[10284:118854] Resetting plugins due to page load.
+2015-11-17 21:34:54.243 poeticApp[10284:118854] Finished load of: file:///Users/RamY/Library/Developer/CoreSimulator/Devices/A23DD4E1-1F85-4971-86F7-2B05C2DBA24F/data/Containers/Bundle/Application/24EADBC2-926E-4D0E-962A-0620C6C72CEC/poeticApp.app/www/index.html#/app/tab
